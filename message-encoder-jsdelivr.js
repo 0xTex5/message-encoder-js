@@ -1,4 +1,5 @@
-        //Partial code comes from https://github.com/Blobby-Boi/data-URL-Generator
+// YAYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY 
+//Partial code comes from https://github.com/Blobby-Boi/data-URL-Generator
         function utf8ToBase64(str) {
             const encoder = new TextEncoder();
             const data = encoder.encode(str);
